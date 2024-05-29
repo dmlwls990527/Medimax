@@ -18,7 +18,7 @@
 
 🖥️아키텍처
 ---
-![아키텍처]images/아키텍쳐.png
+![아키텍처][images/아키텍쳐.png](https://github.com/dmlwls990527/Medimax/blob/master/images/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.png)
 
 카카오톡 ID 로그인 및 인증, 휴대폰 알람까지 제대로 된 프로젝트를 해본 적이 없었는데 이번 기회에 처음으로 해보았다.
 
