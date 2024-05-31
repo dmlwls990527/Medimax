@@ -22,11 +22,19 @@
 ![아키텍처](https://github.com/dmlwls990527/Medimax/blob/master/images/%EC%95%84%ED%82%A4%ED%85%8D%EC%B3%90.png)
 
 
+개발 프로세스 
+--- 
+![프로세스](https://github.com/dmlwls990527/Medimax/blob/master/images/%EA%B0%9C%EB%B0%9C%20%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.PNG)
+
+
 ✋수행업무 
 ---  
 - API 설계 및 구현 : RESTful 아키텍처를 기반으로 E약은요 API와의 연동을 설계하고 구현하였습니다.
-  
+
 - 데이터 처리 : E약은요 API로부터 수신된 데이터를 저장하고, 필요한 데이터만 선별하여 프론트엔드와의 원활한 데이터 교환을 가능하게 했습니다.
+![출력데이터](https://github.com/dmlwls990527/Medimax/blob/master/images/%EC%B6%9C%EB%A0%A5%EA%B2%B0%EA%B3%BC.PNG)
+출력 데이터 중에서 효능,사용법,주의사항,부작용,보관법 을 선별해서 프론트엔드에 전송했습니다.
+
 
 마치며
 --- 
